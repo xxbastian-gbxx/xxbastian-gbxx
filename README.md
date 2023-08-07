@@ -7,9 +7,8 @@ Web Developer and Student
 *   🌍  I'm based in Saxony, Germany
 *   ✉️  You can contact me at [sebastian.grosse.business@gmail.com](mailto:sebastian.grosse.business@gmail.com)
 *   🚀  I'm currently working on [MMS-Board](http://github.com/xxbastian-gbxx/mms-board)
-*   🧠  I'm learning PHP and Database Conection
+*   🧠  I'm learning PHP and Working with Databases
 *   🤝  I'm open to collaborating on exciting, creative and useful projects
-*   ⚡  I'm the gay power in the developer scene :)
 
 <a href="https://www.github.com/xxbastian-gbxx" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/xxbastian-gbxx?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
 
